@@ -21,7 +21,7 @@ pip install pandas matplotlib
 2. Run the script:
 
 ```sh
-python script.py
+python app.py
 ```
 
 ## Code Breakdown
